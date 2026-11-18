@@ -55,6 +55,8 @@ This repository contains the solutions for Lab #4a, focusing on modern client-si
 [Q2 Input abc]
 <img width="1366" height="731" alt="q2-inputabc" src="https://github.com/user-attachments/assets/ca9a44d1-ef98-49a6-b791-4917908ed856" />
 
+[Q2 Input empty input]
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/61bd2a83-2499-4e92-9cf8-9284976cb69e" />
 
 ### Question 3: Dynamic Number Generator
 *Before clicking button:*
